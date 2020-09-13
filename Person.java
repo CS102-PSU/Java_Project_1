@@ -32,10 +32,6 @@ public class Person {
 	}
 
 
-	public String getGender() {
-		return this.gender;
-	}
-
 	public void setGender(String gender) {
 		this.gender = gender;
 	}
